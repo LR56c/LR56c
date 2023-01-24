@@ -1,4 +1,4 @@
-11### <div align="center"> Software Developer & Front-end Developer </div>
+### <div align="center"> Software Developer & Front-end Developer </div>
 
 - Estudió Ingeniería en Informática en Duoc UC, sede Viña del Mar, ingrese el 2022 y, actualmente, curso el 3er semestre de la carrera. Ingresé a la carrera para expandir mis conocimientos y mejorar mis habilidades para ser un mejor informático. Me gusta el desarrollo de software y aplicaciones web. Me apasiona aprender cosas nuevas y me gustaría hacer aplicaciones que sean de utilidad para la sociedad. Espero que cuando egrese, me pueda desempeñar en lo que más me gusta y que pueda ayudar con mis conocimientos.
 
