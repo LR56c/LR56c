@@ -9,7 +9,8 @@
 
 ### Frontend
 <div align="center">
-<a href="https://qwik.builder.io/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png" alt="Qwik" height="50" /></a>
+  
+<a href="https://astro.build/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png" alt="Qwik" height="50" /></a>
 <a href="https://qwik.builder.io/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/Q/qwik-icon-logo-48EC4793C2-seeklogo.com.png" alt="Qwik" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
