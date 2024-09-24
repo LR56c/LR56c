@@ -2,7 +2,7 @@
 <div align="center">
  <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/mauricio-herrera-ortega/" target="blank">Mauricio Herrera Ortega</a> 👋</h1>
 </div>
-- Me gusta el desarrollo de software y aplicaciones web. Me apasiona aprender cosas nuevas y me gustaría hacer aplicaciones que sean de utilidad para la sociedad
+Me gusta el desarrollo de software y aplicaciones web. Me apasiona aprender cosas nuevas y me gustaría hacer aplicaciones que sean de utilidad para la sociedad
 
 <br/>
 
