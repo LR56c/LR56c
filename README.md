@@ -15,6 +15,7 @@
 <a><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/71742764?s=48&v=4" alt="Jetpack Compose" height="50" /></a>
 <a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>
 <a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vuejs" height="50" /></a>
+<a><img style="margin: 10px" src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="Nuxtjs" height="50" /></a>
 <a><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Nextjs" height="50" /></a>
 
 ### Backend
@@ -37,7 +38,6 @@
 <a target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="AWS" height="50" /></a>
 <a target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 <a target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
-<a target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Azure" height="50" /></a>
 <a target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Azure" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
